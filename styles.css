@@ -70,6 +70,14 @@ button {
 .text {
     color:#fff;
 }
+
+.column-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    padding: 2rem;
+}
 .image {
     width: 100%;
     height: 100%;
